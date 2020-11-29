@@ -6,7 +6,7 @@ The goal of this project is to emulate the scatter pyplot from matplotlib in pyg
 Plotly Scatter Plot
 
 Emulated Plot
-(https://github.com/Saccharine-Coal/Pygame-Interactive-Graph/blob/main/image.png)
+[logo]: https://github.com/Saccharine-Coal/Pygame-Interactive-Graph/blob/main/image.png "Program Image"
 
 # Modules Used
 - pygame
