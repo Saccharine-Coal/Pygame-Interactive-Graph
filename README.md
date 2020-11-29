@@ -7,6 +7,7 @@ Plotly Scatter Plot
 
 Emulated Plot
 [logo]: https://github.com/Saccharine-Coal/Pygame-Interactive-Graph/blob/main/image.png "Program Image"
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 # Modules Used
 - pygame
