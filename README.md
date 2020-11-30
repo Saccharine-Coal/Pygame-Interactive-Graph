@@ -15,6 +15,7 @@ The goal of this project is to emulate the scatter pyplot from matplotlib in pyg
 - Improve legibility
 - Add tick labels
 - Add functions to autmate data handling from different files
+- Add ui element transparency (pygame blending is expensive, so this may be omitted)
 
 # Modules Used
 - pygame
