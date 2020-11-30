@@ -9,6 +9,12 @@ The goal of this project is to emulate the scatter pyplot from matplotlib in pyg
 - Left Click to see point data
 - Scroll Wheel to zoom in or out
 
+# Goals
+- Display (x, y) on point hover
+- Improve color scheme
+- Improve legibility
+- Add tick labels
+- Add functions to autmate data handling from different files
 
 # Modules Used
 - pygame
