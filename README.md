@@ -7,7 +7,7 @@ Plotly Scatter Plot
 ![alt text](https://github.com/Saccharine-Coal/Pygame-Interactive-Graph/blob/ec74f92465018d27a53c7f06103aea5795b3d1cc/image.png "Ploty Scatter")
 
 Emulated Plot
-![alt text](https://github.com/Saccharine-Coal/Pygame-Interactive-Graph/blob/main/image.png "Program Image")
+![alt text](https://github.com/Saccharine-Coal/Pygame-Interactive-Graph/blob/main/Image1.png "Program Image")
 
 
 # Modules Used
