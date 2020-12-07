@@ -19,4 +19,4 @@ POINTSIZE = 7
 x_data_type, y_data_type = 'st_mass', 'st_rad'
 color_data_type, size_data_type = 'st_teff', "foo"
 
-FILENAME = 'PS_2020.11.24_15.36.44(VALUES)'
+FILENAME = 'PS_2020.11.24_15.36.44(VALUES) - TRUNCATED'
